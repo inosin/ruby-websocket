@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.3)
+    addressable (2.3.4)
     async-rack (0.5.1)
       rack (~> 1.1)
     em-synchrony (1.0.3)
